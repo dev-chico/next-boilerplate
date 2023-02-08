@@ -1,7 +1,7 @@
 # Boilerplate para projetos utilizando NextJS 🚀
 <br>
 
-#### Esse projeto foi desenvolvido com NextJS, Typescript e Styled Components. Possui o Jest devidamente configurado, Storybook, etc. 😁
+#### Esse projeto foi desenvolvido com NextJS, Typescript e Styled Components. Possui o Jest devidamente configurado, Storybook, Plop, etc. 😁
 
 <br>
 
@@ -22,4 +22,4 @@ E para rodar, basta executar:
 
 ---
 
-Possui diversos outros scripts já configurado como o de `build`, `lint`, `test`, entre outros.
+Possui diversos outros scripts já configurados como o de `build`, `lint`, `test`, entre outros.
